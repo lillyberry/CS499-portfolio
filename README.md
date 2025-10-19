@@ -4,9 +4,9 @@
 
 ### CS499 Computer Science Capstone
 
-My name is Lilly Berry (She/Her), and I am a President’s List student graduating with honors from Southern New Hampshire University, where I majored in Computer Science with a concentration in Software Engineering. Below, you will find my Professional Self-Assessment, which highlights my academic journey, technical growth, and professional development throughout the Computer Science program. In this portfolio, I showcase a collection of artifacts and projects that I have refined and expanded upon during my Computer Science Capstone course, demonstrating both my technical expertise and readiness to excel in the field.
+My name is Lilly Berry, and I am a President’s List student graduating with honors from Southern New Hampshire University, where I majored in Computer Science with a concentration in Software Engineering. Below, you will find my Professional Self-Assessment, which highlights my academic journey, technical growth, and professional development throughout the Computer Science program. In this portfolio, I showcase a collection of artifacts and projects that I have refined and expanded upon during my Computer Science Capstone course, demonstrating both my technical expertise and readiness to excel in the field.
 
-### Table of Content
+### Table of Contents
 1. Professional Self-Assessment
 2. Code Review
 3. Software Design and Engineering
@@ -33,13 +33,13 @@ As I reflect on my journey, this program has reshaped the way I think, work, and
 
 Completing this ePortfolio has helped me realize that I’m not just earning a degree — I’m building a career foundation rooted in creativity, logic, and discipline. I’m proud of how far I’ve come, and I know that this is just the beginning. My goal is to continue growing as a software developer, taking what I’ve learned about engineering, data, and security to create real-world solutions that make technology safer, smarter, and more efficient. This journey has been one of perseverance and transformation, and I’m ready to take these skills into the professional world with confidence and purpose.
 
-## Code Review
+### Code Review
 
 This code review script serves as a formal analysis of software quality, demonstrating my ability to critically evaluate source code for security, efficiency, and maintainability. The review identifies potential vulnerabilities, improper input handling, and algorithmic inefficiencies while assessing adherence to established coding standards. This artifact highlights my understanding of secure software development practices, systematic problem-solving, and attention to detail—skills essential for professional competency in computer science and software engineering.
 
 [Code Review Script](https://github.com/lillyberry/CS499-portfolio/blob/c3841d18da39bbe2f4398f52932d711b6e17ae47/CS%20499%20Code%20Review%20script.docx)
 
-## Software Design and Engineering Enhancement
+### Software Design and Engineering Enhancement
 
 The artifact I chose to enhance was a Python project from CS 340: Client/Server Development. This enhancement demonstrates my ability to design modular, scalable, and maintainable software systems. I refactored a client/server application to include a RESTful API layer, role-based authentication, and improved modularity, showcasing proficiency in software architecture, secure coding practices, and system design principles. This artifact reflects my understanding of best practices in software engineering and my ability to implement professional-grade solutions.
 
@@ -49,7 +49,7 @@ The artifact I chose to enhance was a Python project from CS 340: Client/Server 
 
 [Software Design and Engineering Enhanced](https://github.com/lillyberry/CS499-portfolio/blob/c3841d18da39bbe2f4398f52932d711b6e17ae47/CS340%20Client-server%20Development/CS499mod3_enhanced.py)
 
-## Algorithms and Data Structures Enhancement
+### Algorithms and Data Structures Enhancement
 
 This enhancement originates from my CS 330: Computational Graphics and Visualization course and focuses on the SceneManager.cpp file. I improved the efficiency of object rendering and material management by replacing linear searches with hash maps, optimizing lookup times from O(n) to O(1). This demonstrates my ability to apply advanced data structures, algorithmic thinking, and modular design principles to enhance the performance of complex software systems.
 
@@ -59,7 +59,7 @@ This enhancement originates from my CS 330: Computational Graphics and Visualiza
 
 [Algorithms and Data Structures Enhanced](https://github.com/lillyberry/CS499-portfolio/blob/c3841d18da39bbe2f4398f52932d711b6e17ae47/CS330%20Computational%20Graphics%20and%20Visualization/CS499mod4_enhanced.cpp)
 
-## Databases Enhancement
+### Databases Enhancement
 
 This enhancement originates from my CS 405: Secure Coding course and focuses on the Secure Database Interaction assignment. I expanded the artifact into a secure database access layer by implementing role-based access control (RBAC), field-level encryption for sensitive data, and logging/auditing of database operations. This demonstrates my ability to design secure, scalable, and robust database systems while applying best practices to prevent vulnerabilities such as SQL injection and unauthorized access.
 
