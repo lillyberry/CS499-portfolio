@@ -1,8 +1,8 @@
-#lillyberry.github.io
+# lillyberry.github.io
 
-#Computer Science ePortfolio
+# Computer Science ePortfolio
 
-##CS499 Computer Science Capstone
+## CS499 Computer Science Capstone
 
 My name is Lilly Berry (She/Her), and I am a President’s List student graduating with honors from Southern New Hampshire University, where I majored in Computer Science with a concentration in Software Engineering. Below, you will find my Professional Self-Assessment, which highlights my academic journey, technical growth, and professional development throughout the Computer Science program. In this portfolio, I showcase a collection of artifacts and projects that I have refined and expanded upon during my Computer Science Capstone course, demonstrating both my technical expertise and readiness to excel in the field.
 
