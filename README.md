@@ -72,4 +72,3 @@ This enhancement originates from my CS 405: Secure Coding course and focuses on 
 [Databases Enhanced - Secure Database](https://github.com/lillyberry/CS499-portfolio/blob/c3841d18da39bbe2f4398f52932d711b6e17ae47/CS405%20Secure%20Coding/CS499mod5.cpp)
 
 [Databases Enhanced - Main](https://github.com/lillyberry/CS499-portfolio/blob/c3841d18da39bbe2f4398f52932d711b6e17ae47/CS405%20Secure%20Coding/CS499mod5_main.cpp)
-
